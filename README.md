@@ -15,7 +15,7 @@
 
 - 🏢 I'm Student at Faculty of Electronic Engineering.
 - 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
-- 💬  Ask me about anything [here](https://www.linkedin.com/in/mostafa-alaa-elsisi-94a757238)
+- 💬  Ask me about anything [here](www.linkedin.com/in/mostafa-elsisi-94a757238)
 
 <br>
 
