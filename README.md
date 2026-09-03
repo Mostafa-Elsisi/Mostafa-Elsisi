@@ -1,68 +1,143 @@
-<h3 align="center">
-  Welcome to Mostafa ALaa's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+<div align="center">
 
+<!-- Header Banner with Animated Text -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Mostafa%20Alaa&fontSize=60&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20.NET%20Developer&descAlignY=58&descSize=22&descColor=ffffff"/>
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
-
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=CSE%20Student;Interested%20about%20Embedded%20Systems;Be%20Who%20You%20Want%20To%20Be&font=Fira%20Code&center=true&width=440&height=45&color=0df3f3&vCenter=true&size=22"></a>
-</p> 
-
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-
-- 🏢 I'm Student at Faculty of Electronic Engineering.
-- 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
-- 💬  Ask me about anything [here](www.linkedin.com/in/mostafa-elsisi-94a757238)
-
-<br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"><b> Skills</b>
-
-<p align="center">
-
-- **Languages**:
-
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-   
-- **Softwares and Tools**:
-
-        
-    ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
-    ![CLion](https://img.shields.io/badge/-CLion-%2300599C.svg?style=for-the-badge&logo=CLion&logoColor=white)&nbsp;
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?color=black&style=for-the-badge&logo=github&logoColor=white)&nbsp;
-    ![Codeforces](https://img.shields.io/badge/-Codeforces-05122A?style=for-the-badge&logo=Codeforces)&nbsp;
-
-<br>
-
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="50"><b> Connect with Me :</b>
-
-<a href="https://github.com/Mostafa-Elsisi" target="_blank">
-<img src=https://img.shields.io/badge/github-%2300acee.svg?color=black&style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<!-- Typing SVG -->
+<a href="https://github.com/Mostafa-Elsisi">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=600&height=60&lines=.NET+Software+Engineer+%F0%9F%9A%80;ASP.NET+Core+%7C+C%23+%7C+SQL+Server;Clean+Code+%7C+Clean+Architecture;Building+Scalable+Backend+Systems+%F0%9F%94%A5" alt="Typing SVG" />
 </a>
-<a href="mailto:elsisimostafa57@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=black&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/mostafa-alaa-elsisi-94a757238" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%ff5851db.svg?color=black&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://t.me/mostafa_alaa57" target="_blank">
-<img src=https://img.shields.io/badge/telegram-%2300acee.svg?color=black&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
-</a>
-<!--
-## 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mosatfa-Elsisi&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
-<br>
-<div width=400px>
-<a href="https://komarev.com/ghpvc/?username=Mosatfa-Elsisim&style=for-the-badge">
-    <img center="left" src="https://komarev.com/ghpvc/?username=Mosatfa-Elsisi&style=for-the-badge">
-</a>
+<br/>
+
+<!-- Profile Views & Followers -->
+<img src="https://komarev.com/ghpvc/?username=Mostafa-Elsisi&style=for-the-badge&color=0d1117&labelColor=00d4ff&label=PROFILE+VIEWS" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/Mostafa-Elsisi?style=for-the-badge&color=0d1117&labelColor=00d4ff&label=FOLLOWERS" />
+
 </div>
--->
+
+---
+
+## 🧑‍💻 About Me
+
+```csharp
+public class MostafaAlaa : SoftwareEngineer
+{
+    public string Name        => "Mostafa Alaa Elsisi";
+    public string Role        => ".NET Software Engineer";
+    public string[] Stack     => ["C#", "ASP.NET Core", "SQL Server", "EF Core"];
+    public string Location    => "Egypt 🇪🇬";
+    public string Focus       => "Building clean, scalable backend systems";
+    public string Email       => "elsisimostafa57@gmail.com";
+    public bool OpenToWork    => true;
+}
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 💙 Languages & Frameworks
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### 🗄️ Databases
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### ⚙️ Tools & DevOps
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🏗️ Architecture & Patterns
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0d1117?style=for-the-badge&logoColor=white)
+![SOLID](https://img.shields.io/badge/SOLID_Principles-0d1117?style=for-the-badge&logoColor=white)
+![CQRS](https://img.shields.io/badge/CQRS-0d1117?style=for-the-badge&logoColor=white)
+![Repository Pattern](https://img.shields.io/badge/Repository_Pattern-0d1117?style=for-the-badge&logoColor=white)
+![DDD](https://img.shields.io/badge/Domain_Driven_Design-0d1117?style=for-the-badge&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mostafa-Elsisi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&ring_color=00d4ff" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mostafa-Elsisi&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" />
+
+<br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Elsisi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Mostafa-Elsisi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mostafa-Elsisi/Mostafa-Elsisi/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mostafa-Elsisi/Mostafa-Elsisi/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Mostafa-Elsisi/Mostafa-Elsisi/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+</div>
+
+> ⚡ To enable the snake animation, add this GitHub Action to your profile repo:
+> `.github/workflows/snake.yml` — see setup instructions below ↓
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mostafa-Elsisi&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" />
+</div>
+
+---
+
+## 🤝 Connect with Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Mostafa--Elsisi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mostafa-Elsisi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mostafa_Alaa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostafa-alaa-elsisi-94a757238)
+[![Gmail](https://img.shields.io/badge/Gmail-elsisimostafa57-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elsisimostafa57@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-mostafa__alaa57-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mostafa_alaa57)
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer"/>
+
+<i>"Clean code is not written by following a set of rules. You know it when you see it." — Robert C. Martin</i>
+
+</div>
