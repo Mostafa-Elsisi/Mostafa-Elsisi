@@ -1,16 +1,13 @@
 <div align="center">
 
-<!-- Header Banner with Animated Text -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Mostafa%20Alaa&fontSize=60&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20.NET%20Developer&descAlignY=58&descSize=22&descColor=ffffff"/>
 
-<!-- Typing SVG -->
 <a href="https://github.com/Mostafa-Elsisi">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=600&height=60&lines=.NET+Software+Engineer+%F0%9F%9A%80;ASP.NET+Core+%7C+C%23+%7C+SQL+Server;Clean+Code+%7C+Clean+Architecture;Building+Scalable+Backend+Systems+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=60&lines=.NET+Software+Engineer+%F0%9F%9A%80;ASP.NET+Core+%7C+C%23+%7C+SQL+Server;Clean+Code+%7C+Clean+Architecture;Building+Scalable+Backend+Systems+%F0%9F%94%A5" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile Views & Followers -->
 <img src="https://komarev.com/ghpvc/?username=Mostafa-Elsisi&style=for-the-badge&color=0d1117&labelColor=00d4ff&label=PROFILE+VIEWS" />
 &nbsp;
 <img src="https://img.shields.io/github/followers/Mostafa-Elsisi?style=for-the-badge&color=0d1117&labelColor=00d4ff&label=FOLLOWERS" />
@@ -40,7 +37,8 @@ public class MostafaAlaa : SoftwareEngineer
 
 <div align="center">
 
-### 💙 Languages & Frameworks
+**💙 Languages & Frameworks**
+
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -49,12 +47,14 @@ public class MostafaAlaa : SoftwareEngineer
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### 🗄️ Databases
+**🗄️ Databases**
+
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### ⚙️ Tools & DevOps
+**⚙️ Tools & DevOps**
+
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -63,41 +63,19 @@ public class MostafaAlaa : SoftwareEngineer
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 🏗️ Architecture & Patterns
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0d1117?style=for-the-badge&logoColor=white)
-![SOLID](https://img.shields.io/badge/SOLID_Principles-0d1117?style=for-the-badge&logoColor=white)
-![CQRS](https://img.shields.io/badge/CQRS-0d1117?style=for-the-badge&logoColor=white)
-![Repository Pattern](https://img.shields.io/badge/Repository_Pattern-0d1117?style=for-the-badge&logoColor=white)
-![DDD](https://img.shields.io/badge/Domain_Driven_Design-0d1117?style=for-the-badge&logoColor=white)
+**🏗️ Architecture & Patterns**
+
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-1a1a2e?style=for-the-badge&logoColor=white)
+![SOLID](https://img.shields.io/badge/SOLID_Principles-1a1a2e?style=for-the-badge&logoColor=white)
+![CQRS](https://img.shields.io/badge/CQRS-1a1a2e?style=for-the-badge&logoColor=white)
+![Repository Pattern](https://img.shields.io/badge/Repository_Pattern-1a1a2e?style=for-the-badge&logoColor=white)
+![DDD](https://img.shields.io/badge/Domain_Driven_Design-1a1a2e?style=for-the-badge&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mostafa-Elsisi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&ring_color=00d4ff" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mostafa-Elsisi&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" />
-
-<br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Elsisi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Mostafa-Elsisi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</div>
-
----
-
-## 🐍 Contribution Graph
+## 🐍 Contribution Snake
 
 <div align="center">
 <picture>
@@ -107,17 +85,6 @@ public class MostafaAlaa : SoftwareEngineer
 </picture>
 </div>
 
-> ⚡ To enable the snake animation, add this GitHub Action to your profile repo:
-> `.github/workflows/snake.yml` — see setup instructions below ↓
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mostafa-Elsisi&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" />
-</div>
-
 ---
 
 ## 🤝 Connect with Me
@@ -125,7 +92,7 @@ public class MostafaAlaa : SoftwareEngineer
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Mostafa--Elsisi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mostafa-Elsisi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mostafa_Alaa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostafa-alaa-elsisi-94a757238)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mostafa_Alaa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostafa-elsisi)
 [![Gmail](https://img.shields.io/badge/Gmail-elsisimostafa57-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elsisimostafa57@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-mostafa__alaa57-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mostafa_alaa57)
 
@@ -135,7 +102,6 @@ public class MostafaAlaa : SoftwareEngineer
 
 <div align="center">
 
-<!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer"/>
 
 <i>"Clean code is not written by following a set of rules. You know it when you see it." — Robert C. Martin</i>
